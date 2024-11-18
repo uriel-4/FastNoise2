@@ -17,6 +17,7 @@ Uses FastSIMD to compile classes with multiple SIMD types and selects the fastes
 - AVX2
 - AVX512
 - NEON
+- WASM
 
 Supports:
 - 32/64 bit
@@ -27,6 +28,7 @@ Supports:
 - MSVC
 - Clang
 - GCC
+- Emscripten
 
 Bindings:
 - [C#](https://github.com/Auburn/FastNoise2Bindings)
